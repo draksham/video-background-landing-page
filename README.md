@@ -6,9 +6,6 @@
 
 
 
-### Demo Screeshots
-
-![Video Background Landing Page Desktop Demo](./readme-images/Video-Background.png "Desktop Demo")
 
 ### Prerequisites
 
