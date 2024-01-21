@@ -3,6 +3,8 @@
   <h2 align="center">Video Background Landing Page</h2>
 
   In this project, I have created a landing page with video background, The project is built using HTML5 & CSS3.
+  <img width="948" alt="portfolio 6" src="https://github.com/draksham/video-background-landing-page/assets/123640464/d21be656-3404-4fc3-988b-2f1a60b00e33">
+
 
 
 
