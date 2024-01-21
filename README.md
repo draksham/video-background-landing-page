@@ -20,13 +20,13 @@ To run **video-background-landing-page** locally, run this command on your git b
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/geeky-prashant/video-background-landing-page.git
+sudo git clone https://github.com/draksham/video-background-landing-page.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/geeky-prashant/video-background-landing-page.git
+git clone https://github.com/draksham/video-background-landing-page.git
 ```
 
 
